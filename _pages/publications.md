@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-**InfiniteWalk: Deep Network Embeddings as Laplacian Embeddings with a Nonlinearity**
+**InfiniteWalk: Deep Network Embeddings as Laplacian Embeddings with a Nonlinearity**  
 Sudhanshu Chanpuriya and Cameron Musco. Knowledge Discovery in Databases (KDD), 2020.
 
-**Node Embeddings and Exact Low-Rank Representations of Complex Networks**
+**Node Embeddings and Exact Low-Rank Representations of Complex Networks**  
 Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, and Charalampos Tsourakakis. In submission.
 
 <!---
