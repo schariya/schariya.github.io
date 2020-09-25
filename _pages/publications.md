@@ -9,7 +9,7 @@ author_profile: true
 Sudhanshu Chanpuriya and Cameron Musco. Knowledge Discovery in Databases (KDD), 2020.
 
 **Node Embeddings and Exact Low-Rank Representations of Complex Networks**  
-Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, and Charalampos Tsourakakis. In submission.
+Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, and Charalampos Tsourakakis. Neural Information Processing Systems (NeurIPS), 2020.
 
 <!---
 {% if author.googlescholar %}
