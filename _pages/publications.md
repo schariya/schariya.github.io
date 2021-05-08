@@ -7,7 +7,7 @@ author_profile: true
 
 **DeepWalking Backwards: From Embeddings Back to Graphs**  
 Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, and Charalampos Tsourakakis.
-<br>In submission.
+<br>International Conference on Machine Learning (ICML) 2021.
 <br><a href="https://arxiv.org/abs/2102.08532">arXiv</a> | <a href="https://github.com/konsotirop/Invert_Embeddings">GitHub</a>
 
 **Node Embeddings and Exact Low-Rank Representations of Complex Networks**  
