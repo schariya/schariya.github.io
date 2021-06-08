@@ -17,7 +17,7 @@ Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, and Charalampos 
 
 **InfiniteWalk: Deep Network Embeddings as Laplacian Embeddings with a Nonlinearity**  
 Sudhanshu Chanpuriya and Cameron Musco.
-<br>Knowledge Discovery in Databases (KDD) 2020.
+<br>Knowledge Discovery and Data Mining (KDD) 2020.
 <br><a href="https://arxiv.org/abs/2006.00094">arXiv</a> | <a href="https://github.com/schariya/infwalk">GitHub</a>
 
 <!---
