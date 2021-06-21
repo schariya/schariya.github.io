@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ms/PhD student in computer science at UMass Amherst. I am advised by [Cameron Musco](https://people.cs.umass.edu/~cmusco/).
+I am a third-year PhD student in computer science at UMass Amherst. I am advised by [Cameron Musco](https://people.cs.umass.edu/~cmusco/).
 
 My primary interest is in machine learning involving network data and graph-based algorithms. My recent work centers around learning or inverting low-dimensional representations for networks. I am also more generally interested in connections between recent, “deep” methods and classical methods.
 
