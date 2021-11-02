@@ -8,6 +8,7 @@ author_profile: true
 **On the Power of Edge Independent Graph Models**  
 Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, and Charalampos Tsourakakis.
 <br>Neural Information Processing Systems (NeurIPS) 2021.
+<br><a href="https://arxiv.org/abs/2111.00048">arXiv</a> | <a href="https://github.com/konsotirop/edge_independent_models">GitHub</a>
 
 **DeepWalking Backwards: From Embeddings Back to Graphs**  
 Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, and Charalampos Tsourakakis.
