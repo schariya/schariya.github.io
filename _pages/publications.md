@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+**An Interpretable Graph Generative Model with Heterophily**  
+Sudhanshu Chanpuriya, Ryan A. Rossi, Anup Rao, Tung Mai, Nedim Lipka, Zhao Song, and Cameron Musco.
+<br>In submission.
+<br><a href="https://arxiv.org/abs/2111.03030">arXiv</a>
+
 **On the Power of Edge Independent Graph Models**  
 Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, and Charalampos Tsourakakis.
 <br>Neural Information Processing Systems (NeurIPS) 2021.
