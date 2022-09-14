@@ -7,7 +7,7 @@ author_profile: true
 
 **Simplified Graph Convolution with Heterophily**  
 Sudhanshu Chanpuriya and Cameron Musco.
-<br>In submission.
+<br>Neural Information Processing Systems (NeurIPS) 2022.
 <br><a href="https://arxiv.org/abs/2202.04139">arXiv</a>
 
 **An Interpretable Graph Generative Model with Heterophily**  
