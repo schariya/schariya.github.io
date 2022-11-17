@@ -9,7 +9,7 @@ redirect_from:
 ---
 <meta name="google-site-verification" content="K4tH2epHMZYbEWZxlrZS6eVqiHBhXfI9GgV-Y0ojkYg" />
 
-I am a PhD student in computer science at UMass Amherst, where I am advised by [Cameron Musco](https://people.cs.umass.edu/~cmusco/).
+I am a PhD candidate in computer science at UMass Amherst, where I am advised by [Cameron Musco](https://people.cs.umass.edu/~cmusco/).
 
 My primary interest is in machine learning involving network data and graph-based algorithms. I am also more generally interested in connections between deep and classical methods.
 
