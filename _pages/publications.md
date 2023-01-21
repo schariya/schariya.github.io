@@ -5,17 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Direct Embedding of Temporal Network Edges via Time-Decayed Line Graphs**  
-Sudhanshu Chanpuriya, Ryan A. Rossi, Sungchul Kim, Tong Yu,  
-Jane Hoffswell, Nedim Lipka, Shunan Guo, and Cameron Musco.
-<br>In submission.
-<br><a href="https://arxiv.org/abs/2210.00032">arXiv</a>
-
 **Exact Representation of Sparse Networks with Symmetric Nonnegative Embeddings**  
 Sudhanshu Chanpuriya, Ryan A. Rossi, Anup Rao, Tung Mai,  
 Nedim Lipka, Zhao Song, and Cameron Musco.
 <br>In submission.
 <br><a href="https://arxiv.org/abs/2111.03030">arXiv</a>
+
+**Direct Embedding of Temporal Network Edges via Time-Decayed Line Graphs**  
+Sudhanshu Chanpuriya, Ryan A. Rossi, Sungchul Kim, Tong Yu,  
+Jane Hoffswell, Nedim Lipka, Shunan Guo, and Cameron Musco.
+<br>International Conference on Learning Representations (ICLR) 2023
+<br><a href="https://arxiv.org/abs/2210.00032">arXiv</a>
 
 **Simplified Graph Convolution with Heterophily**  
 Sudhanshu Chanpuriya and Cameron Musco.
