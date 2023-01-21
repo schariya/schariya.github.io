@@ -14,7 +14,7 @@ Nedim Lipka, Zhao Song, and Cameron Musco.
 **Direct Embedding of Temporal Network Edges via Time-Decayed Line Graphs**  
 Sudhanshu Chanpuriya, Ryan A. Rossi, Sungchul Kim, Tong Yu,  
 Jane Hoffswell, Nedim Lipka, Shunan Guo, and Cameron Musco.
-<br>International Conference on Learning Representations (ICLR) 2023
+<br>International Conference on Learning Representations (ICLR) 2023.
 <br><a href="https://arxiv.org/abs/2210.00032">arXiv</a>
 
 **Simplified Graph Convolution with Heterophily**  
