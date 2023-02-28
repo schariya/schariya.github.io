@@ -15,7 +15,7 @@ Nedim Lipka, Zhao Song, and Cameron Musco.
 Sudhanshu Chanpuriya, Ryan A. Rossi, Sungchul Kim, Tong Yu,  
 Jane Hoffswell, Nedim Lipka, Shunan Guo, and Cameron Musco.
 <br>International Conference on Learning Representations (ICLR) 2023.
-<br><a href="https://arxiv.org/abs/2210.00032">arXiv</a>
+<br><a href="https://arxiv.org/abs/2210.00032">arXiv</a> | <a href="https://github.com/schariya/tdlg">GitHub</a>
 
 **Simplified Graph Convolution with Heterophily**  
 Sudhanshu Chanpuriya and Cameron Musco.
