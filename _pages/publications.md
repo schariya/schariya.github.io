@@ -14,7 +14,7 @@ Nedim Lipka, Zhao Song, and Cameron Musco.
 **Latent Random Steps as Relaxations of Max-Cut, Min-Cut, and More**  
 Sudhanshu Chanpuriya and Cameron Musco.
 <br>Differentiable Almost Everything Workshop at ICML 2023.
-<br><a href="https://differentiable.xyz/papers/paper_57.pdf">Paper</a>
+<br><a href="https://arxiv.org/abs/2308.06448">Paper</a>
 
 **Direct Embedding of Temporal Network Edges via Time-Decayed Line Graphs**  
 Sudhanshu Chanpuriya, Ryan A. Rossi, Sungchul Kim, Tong Yu,  
