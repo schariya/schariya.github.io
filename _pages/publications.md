@@ -8,7 +8,7 @@ author_profile: true
 **Exact Representation of Sparse Networks with Symmetric Nonnegative Embeddings**  
 Sudhanshu Chanpuriya, Ryan A. Rossi, Anup Rao, Tung Mai,  
 Nedim Lipka, Zhao Song, and Cameron Musco.
-<br>In submission.
+<br>Neural Information Processing Systems (NeurIPS) 2023.
 <br><a href="https://arxiv.org/abs/2111.03030">Paper</a>
 
 **Latent Random Steps as Relaxations of Max-Cut, Min-Cut, and More**  
