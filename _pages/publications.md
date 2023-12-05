@@ -9,7 +9,7 @@ author_profile: true
 Sudhanshu Chanpuriya, Ryan A. Rossi, Anup Rao, Tung Mai,  
 Nedim Lipka, Zhao Song, and Cameron Musco.
 <br>Neural Information Processing Systems (NeurIPS) 2023.
-<br><a href="https://arxiv.org/abs/2111.03030">Paper</a>
+<br><a href="https://arxiv.org/abs/2111.03030">Paper</a> | <a href="https://github.com/schariya/sym-logistic-nmf">Code</a>
 
 **Latent Random Steps as Relaxations of Max-Cut, Min-Cut, and More**  
 Sudhanshu Chanpuriya and Cameron Musco.
