@@ -7,7 +7,7 @@ author_profile: true
 
 **On the Role of Edge Dependency in Graph Generative Models**
 <br>Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, and Charalampos Tsourakakis.
-<br>In submission.
+<br>International Conference on Machine Learning (ICML) 2024.
 <br><a href="https://arxiv.org/abs/2312.03691">Paper</a>
 
 **Exact Representation of Sparse Networks with Symmetric Nonnegative Embeddings**  
